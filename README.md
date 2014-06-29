@@ -9,3 +9,7 @@ Free-Test
 ````ruby
 puts "test"
 ````
+
+````python
+print "test_py"
+````
