@@ -6,6 +6,6 @@ Free-Test
 
 # 兵站部TEST
 
-''''ruby
+````ruby
 puts "test"
-''''
+````
