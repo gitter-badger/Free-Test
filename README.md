@@ -5,3 +5,7 @@ Free-Test
 自由に編集できます
 
 # 兵站部TEST
+
+''''ruby
+puts "test"
+''''
