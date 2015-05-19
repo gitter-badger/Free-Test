@@ -1,5 +1,8 @@
-今日やること
+やったこと
 ====
+
+5_19
+===
 
 報告会
 ----
@@ -23,18 +26,25 @@ Github勉強会
 git clone
 
 git add 
+
 git commit 
+
 git push 
+
 git pull
 
 - git log 
 - git status
 - git checkout
-
+<!-- git checkout -b -->
 - git rm
 - git branch
-- git remote -v (option)
-
 - .gitignore
+
+
+次やること
+----
+
+- git remote -v (option)
 - GFM(.mdファイルの書き方)
 - gitter
