@@ -2,7 +2,7 @@
 digraph rover_flow {
 	graph [charset="UTF-8", ranksep=0.0];
 	 n1[label="Begin",shape=ellipse];
-	 n2[label="Turn on the spot",shape=box
+	 n2[label="Turn on the spot",shape=box];
 	 n3[label="Find the aim",shape=diamond];
 	 n4[label="stop",shape=box];
 	 n5[label="Gain headway",shape=box];
