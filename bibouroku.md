@@ -55,7 +55,7 @@ git pull
 メモ
 ---
 
-**thubo君ファイルのBuild方法(笑)**
+**thuboファイルのBuild方法(笑)**
 
 ```
 dot -Tpng in.dot -o out.png
@@ -81,7 +81,9 @@ Github勉強会
 
     - git remote -v
 
-    - gitter
+    - git init
+
+    - gitter(やらないかも)
 
 2. Main
 
@@ -107,3 +109,16 @@ Github勉強会
     > Python? 仕事じゃなかったらあまり使いたくない…
     > 僕が紹介するものと言ったら…なんでしょうか?
     > Haskell , unity , arduino , raspberrypi ... それくらい？
+
+次回(6/1~6/5)
+---
+
+- Dot言語 by thubo(予定)
+
+> フローチャート
+
+- github質問回(要望があれば)
+
+- 報告会
+
+- Takizawaによる、Arduino講座!!(未定)
