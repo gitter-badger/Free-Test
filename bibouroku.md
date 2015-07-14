@@ -25,15 +25,15 @@ Github勉強会
 
 git clone
 
-git add 
+git add
 
-git commit 
+git commit
 
-git push 
+git push
 
 git pull
 
-- git log 
+- git log
 - git status
 - git checkout
 <!-- git checkout -b -->
@@ -49,7 +49,7 @@ git pull
 - GFM(.mdファイルの書き方)
 - gitter
 
-5_28(予定)
+5_28
 ===
 
 メモ
@@ -90,9 +90,9 @@ Github勉強会
     - 復習
 
         - git clone
-        - git add 
+        - git add
         - git status
-        - git commit 
+        - git commit
         - git log
         - git push
         - git pull
@@ -122,3 +122,16 @@ Github勉強会
 - 報告会
 
 - Takizawaによる、Arduino講座!!(未定)
+
+6_3
+===
+
+今週の報告
+---
+
+**シュシュッと報告!!!!**
+> いつも通り、僕のターン!
+> > Haskellった -> serial他
+> > OSの自作勉強 -> ひっそりと非公開でやってまつ
+> > ミックミクにしてあげる防犯装置？を2時間で完成させる!!! (プログラム書いて配線しただけど)
+> > ロックマンゼロ4 (たまたま)本日配信開始!! 話題があってよかったw
