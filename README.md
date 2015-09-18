@@ -1,6 +1,8 @@
 Free-Test
 =========
 
+[![Join the chat at https://gitter.im/HSU-MilitaryLogisticsClub/Free-Test](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HSU-MilitaryLogisticsClub/Free-Test?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 メンバーのGitHub練習用リポジトリです。
 自由に編集できます
 
